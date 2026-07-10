@@ -1,2 +1,31 @@
-# www.funeralitaliaalbania.it
- I nostri servizi Trasporto funebre Italia – Albania Rimpatrio salme Albania – Italia Disbrigo di tutte le pratiche burocratiche Organizzazione completa del funerale Trasporti nazionali e internazionali Assistenza continua 24 ore su 24, 7 giorni su 7
+agenzia-funebre-italia-albania/
+│
+├── index.html
+├── chi-siamo.html
+├── servizi.html
+├── trasporto-italia-albania.html
+├── galleria.html
+├── faq.html
+├── contatti.html
+├── sq.html
+├── robots.txt
+├── sitemap.xml
+├── 404.html
+│
+├── css/
+│   ├── style.css
+│   └── responsive.css
+│
+├── js/
+│   └── main.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── servizi/
+│   └── gallery/
+│
+├── icons/
+│   └── favicon.ico
+│
+└── README.md

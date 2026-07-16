@@ -1,31 +1,24 @@
-agenzia-funebre-italia-albania/
-│
-├── index.html
-├── chi-siamo.html
-├── servizi.html
-├── trasporto-italia-albania.html
-├── galleria.html
-├── faq.html
-├── contatti.html
-├── sq.html
-├── robots.txt
-├── sitemap.xml
-├── 404.html
-│
-├── css/
-│   ├── style.css
-│   └── responsive.css
-│
-├── js/
-│   └── main.js
+agenzia-funebre-github/
+│── index.html
+│── servizi.html
+│── chi-siamo.html
+│── contatti.html
+│── privacy.html
+│── cookie.html
+│── style.css
+│── script.js
+│── sitemap.xml
+│── robots.txt
+│── README.md
 │
 ├── images/
 │   ├── logo.png
 │   ├── hero.jpg
-│   ├── servizi/
-│   └── gallery/
+│   ├── servizi.jpg
+│   ├── carro-funebre.jpg
+│   └── favicon.png
 │
-├── icons/
-│   └── favicon.ico
-│
-└── README.md
+└── assets/
+    ├── css/
+    ├── js/
+    └── icons/
